@@ -20,7 +20,7 @@ const fetchuser = async (req, res, next) => {
   }
 
   // console.log(data.user);
-  // un updated
+  // updated
 };
 
 module.exports = fetchuser;
